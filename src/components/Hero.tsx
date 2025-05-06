@@ -48,7 +48,7 @@ export const Hero = () => {
         </div>
         
         <div className="w-full lg:w-1/2 flex justify-center mt-10 lg:mt-0">
-          <div className="relative w-[260px] h-[400px] md:w-[320px] md:h-[580px] animate-scale-in">
+          <div className="relative w-[260px] h-[500px] md:w-[320px] md:h-[580px] animate-scale-in">
             <div className="absolute inset-0 bg-primary rounded-2xl rotate-3"></div>
             <img 
               src="/static/osama.webp" 
